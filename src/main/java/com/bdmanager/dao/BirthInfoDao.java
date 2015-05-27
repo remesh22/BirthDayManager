@@ -10,4 +10,5 @@ public interface BirthInfoDao {
 	public List<BirthInfo> listBirthday();
 	public BirthInfo getBirthday(Long id);
 	public void deleteBirthday(Long id);
+
 }
